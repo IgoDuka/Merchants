@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Dealer\Dealer\obj\Debug\Dealer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Dealer\Dealer\obj\Debug\Dealer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Dealer\Dealer\bin\Debug\Dealer.exe.config
+C:\Users\hp\source\repos\Dealer\Dealer\bin\Debug\Dealer.exe
+C:\Users\hp\source\repos\Dealer\Dealer\bin\Debug\Dealer.pdb
+C:\Users\hp\source\repos\Dealer\Dealer\obj\Debug\Dealer.exe
+C:\Users\hp\source\repos\Dealer\Dealer\obj\Debug\Dealer.pdb
